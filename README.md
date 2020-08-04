@@ -78,3 +78,7 @@ git add .
 git commit -m 'Done'
 git push
 ```
+
+To get feedback on your code, make sure to enable issues on this repo as well! Go to the [settings](/settings) page for your fork, find the checkbox for 'Issues' and make sure it is checked.
+
+
